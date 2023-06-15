@@ -29,7 +29,7 @@ The client directory contains the code for the frontend React server. To start t
 proving this project.
 
 ## Backend Server 
-The main directory contains the code for the frontend node server. To start the backend server, navigate to the client directory and run npm run dev.
+The main directory contains the code for the frontend node server. To start the backend server, navigate to the client directory and run npm start.
 proving this project.
 
 ## Changelog
