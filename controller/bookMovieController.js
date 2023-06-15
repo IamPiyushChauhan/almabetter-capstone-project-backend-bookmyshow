@@ -7,7 +7,7 @@ class BookMovieController {
                 responce.status(500).json({error: err})
             }else {
                 if (bookMovie===null){
-                    responce.status(200).json({"message": "no previous booking found"})
+                    responce.status(200).json({"message": "No previous booking found"})
                 }else{
                     responce.status(200).json(bookMovie)
                 }
